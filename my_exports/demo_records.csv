@@ -1,0 +1,251 @@
+first_name,last_name,email,phone,event_name,activity_type,activity_date,payment_status,proceeds_amount
+Student0,User0,student0.user00@demo.edu,704-555-1000,Welcome Week,Ticket,2024-05-05,Paid,$112.52
+Student1,User1,student1.user11@demo.edu,704-555-1001,Hackathon,Ticket,2024-10-06,Paid,$103.12
+Student2,User2,student2.user22@demo.edu,704-555-1002,Club Fundraiser,Ticket,2024-02-17,Refunded,$9.61
+Student3,User3,student3.user33@demo.edu,704-555-1003,Hackathon,Registration,2024-11-28,Paid,$86.38
+Student4,User4,student4.user44@demo.edu,704-555-1004,Club Fundraiser,Donation,2024-10-28,Refunded,$36.96
+Student5,User5,student5.user55@demo.edu,704-555-1005,Welcome Week,Donation,2024-06-23,Pending,$106.23
+Student6,User6,student6.user66@demo.edu,704-555-1006,Hackathon,Ticket,2024-06-21,Pending,$143.8
+Student7,User7,student7.user77@demo.edu,704-555-1007,Welcome Week,Registration,2024-06-25,Refunded,$19.02
+Student8,User8,student8.user88@demo.edu,704-555-1008,Career Fair,Ticket,2024-10-01,Paid,$110.81
+Student9,User9,student9.user99@demo.edu,704-555-1009,Research Seminar,Registration,2024-11-17,Paid,$85.05
+Student10,User10,student10.user1010@demo.edu,704-555-1010,Career Fair,Registration,2024-01-24,Pending,$107.16
+Student11,User11,student11.user1111@demo.edu,704-555-1011,Hackathon,Ticket,2024-04-29,Failed,$147.86
+Student12,User12,student12.user1212@demo.edu,704-555-1012,Research Seminar,Ticket,2024-07-05,Failed,$70.74
+Student13,User13,student13.user1313@demo.edu,704-555-1013,Career Fair,Registration,2024-05-16,Failed,$35.38
+Student14,User14,student14.user1414@demo.edu,704-555-1014,Welcome Week,Ticket,2024-05-05,Pending,$82.45
+Student15,User15,student15.user1515@demo.edu,704-555-1015,Research Seminar,Registration,2024-11-23,Refunded,$44.14
+Student16,User16,student16.user1616@demo.edu,704-555-1016,Club Fundraiser,Ticket,2024-01-29,Pending,$104.27
+Student17,User17,student17.user1717@demo.edu,704-555-1017,Welcome Week,Ticket,2024-02-03,Failed,$63.17
+Student18,User18,student18.user1818@demo.edu,704-555-1018,Club Fundraiser,Donation,2024-09-12,Failed,$35.83
+Student19,User19,student19.user1919@demo.edu,704-555-1019,Research Seminar,Registration,2024-05-06,Pending,$43.41
+Student20,User20,student20.user2020@demo.edu,704-555-1020,Club Fundraiser,Registration,2024-08-07,Failed,$113.32
+Student21,User21,student21.user2121@demo.edu,704-555-1021,Research Seminar,Registration,2024-03-11,Failed,$36.8
+Student22,User22,student22.user2222@demo.edu,704-555-1022,Research Seminar,Ticket,2024-02-26,Paid,$114.59
+Student23,User23,student23.user2323@demo.edu,704-555-1023,Hackathon,Donation,2024-07-16,Refunded,$91.48
+Student24,User24,student24.user2424@demo.edu,704-555-1024,Club Fundraiser,Ticket,2024-10-10,Refunded,$81.72
+Student25,User25,student25.user2525@demo.edu,704-555-1025,Welcome Week,Ticket,2024-06-23,Failed,$116.45
+Student26,User26,student26.user2626@demo.edu,704-555-1026,Career Fair,Registration,2024-01-02,Refunded,$27.93
+Student27,User27,student27.user2727@demo.edu,704-555-1027,Career Fair,Registration,2024-02-24,Pending,$78.61
+Student28,User28,student28.user2828@demo.edu,704-555-1028,Career Fair,Registration,2024-03-23,Pending,$27.16
+Student29,User29,student29.user2929@demo.edu,704-555-1029,Club Fundraiser,Ticket,2024-09-07,Paid,$91.85
+Student30,User30,student30.user3030@demo.edu,704-555-1030,Welcome Week,Ticket,2024-06-06,Failed,$132.41
+Student31,User31,student31.user3131@demo.edu,704-555-1031,Welcome Week,Ticket,2024-02-10,Pending,$132.31
+Student32,User32,student32.user3232@demo.edu,704-555-1032,Research Seminar,Ticket,2024-09-29,Paid,$146.81
+Student33,User33,student33.user3333@demo.edu,704-555-1033,Hackathon,Donation,2024-03-25,Refunded,$142.29
+Student34,User34,student34.user3434@demo.edu,704-555-1034,Club Fundraiser,Registration,2024-10-03,Refunded,$144.83
+Student35,User35,student35.user3535@demo.edu,704-555-1035,Hackathon,Registration,2024-12-09,Failed,$62.85
+Student36,User36,student36.user3636@demo.edu,704-555-1036,Career Fair,Ticket,2024-08-19,Refunded,$135.44
+Student37,User37,student37.user3737@demo.edu,704-555-1037,Hackathon,Registration,2024-01-11,Pending,$14.28
+Student38,User38,student38.user3838@demo.edu,704-555-1038,Club Fundraiser,Ticket,2024-01-04,Pending,$90.32
+Student39,User39,student39.user3939@demo.edu,704-555-1039,Welcome Week,Donation,2024-01-17,Pending,$14.77
+Student0,User40,student0.user4040@demo.edu,704-555-1040,Welcome Week,Ticket,2024-09-05,Pending,$45.38
+Student1,User41,student1.user4141@demo.edu,704-555-1041,Club Fundraiser,Registration,2024-10-19,Pending,$109.89
+Student2,User42,student2.user4242@demo.edu,704-555-1042,Research Seminar,Ticket,2024-07-27,Pending,$118.77
+Student3,User43,student3.user4343@demo.edu,704-555-1043,Welcome Week,Donation,2024-06-30,Paid,$100.55
+Student4,User44,student4.user4444@demo.edu,704-555-1044,Research Seminar,Registration,2024-01-28,Refunded,$130.26
+Student5,User45,student5.user4545@demo.edu,704-555-1045,Welcome Week,Ticket,2024-06-22,Paid,$63.38
+Student6,User46,student6.user4646@demo.edu,704-555-1046,Hackathon,Ticket,2024-08-17,Pending,$32.58
+Student7,User47,student7.user4747@demo.edu,704-555-1047,Research Seminar,Ticket,2024-05-07,Pending,$45.39
+Student8,User48,student8.user4848@demo.edu,704-555-1048,Research Seminar,Ticket,2024-10-03,Paid,$12.34
+Student9,User49,student9.user4949@demo.edu,704-555-1049,Welcome Week,Donation,2024-09-05,Pending,$29.12
+Student10,User50,student10.user5050@demo.edu,704-555-1050,Hackathon,Donation,2024-03-25,Refunded,$135.85
+Student11,User51,student11.user5151@demo.edu,704-555-1051,Welcome Week,Donation,2024-08-20,Refunded,$43.45
+Student12,User52,student12.user5252@demo.edu,704-555-1052,Research Seminar,Ticket,2024-05-31,Refunded,$27.45
+Student13,User53,student13.user5353@demo.edu,704-555-1053,Welcome Week,Ticket,2024-01-30,Paid,$113.46
+Student14,User54,student14.user5454@demo.edu,704-555-1054,Club Fundraiser,Ticket,2024-09-28,Refunded,$77.91
+Student15,User55,student15.user5555@demo.edu,704-555-1055,Welcome Week,Registration,2024-02-05,Paid,$128.44
+Student16,User56,student16.user5656@demo.edu,704-555-1056,Welcome Week,Ticket,2024-10-18,Pending,$63.55
+Student17,User57,student17.user5757@demo.edu,704-555-1057,Club Fundraiser,Registration,2024-08-02,Paid,$94.81
+Student18,User58,student18.user5858@demo.edu,704-555-1058,Club Fundraiser,Registration,2024-04-14,Failed,$140.53
+Student19,User59,student19.user5959@demo.edu,704-555-1059,Career Fair,Registration,2024-03-08,Pending,$43.51
+Student20,User0,student20.user060@demo.edu,704-555-1060,Career Fair,Ticket,2024-02-07,Refunded,$50.85
+Student21,User1,student21.user161@demo.edu,704-555-1061,Research Seminar,Registration,2024-04-19,Paid,$15.62
+Student22,User2,student22.user262@demo.edu,704-555-1062,Career Fair,Ticket,2024-02-05,Pending,$140.32
+Student23,User3,student23.user363@demo.edu,704-555-1063,Career Fair,Registration,2024-10-05,Failed,$27.87
+Student24,User4,student24.user464@demo.edu,704-555-1064,Career Fair,Donation,2024-10-10,Paid,$101.84
+Student25,User5,student25.user565@demo.edu,704-555-1065,Welcome Week,Registration,2024-02-24,Pending,$43.35
+Student26,User6,student26.user666@demo.edu,704-555-1066,Club Fundraiser,Ticket,2024-11-05,Pending,$44.49
+Student27,User7,student27.user767@demo.edu,704-555-1067,Career Fair,Registration,2024-05-15,Pending,$104.69
+Student28,User8,student28.user868@demo.edu,704-555-1068,Research Seminar,Ticket,2024-01-27,Failed,$136.27
+Student29,User9,student29.user969@demo.edu,704-555-1069,Research Seminar,Ticket,2024-06-19,Failed,$11.39
+Student30,User10,student30.user1070@demo.edu,704-555-1070,Career Fair,Registration,2024-10-09,Pending,$112.48
+Student31,User11,student31.user1171@demo.edu,704-555-1071,Research Seminar,Ticket,2024-12-19,Paid,$21.22
+Student32,User12,student32.user1272@demo.edu,704-555-1072,Club Fundraiser,Registration,2024-10-25,Paid,$126.02
+Student33,User13,student33.user1373@demo.edu,704-555-1073,Hackathon,Donation,2024-06-06,Refunded,$23.48
+Student34,User14,student34.user1474@demo.edu,704-555-1074,Welcome Week,Registration,2024-05-07,Failed,$35.46
+Student35,User15,student35.user1575@demo.edu,704-555-1075,Welcome Week,Registration,2024-07-27,Failed,$118.12
+Student36,User16,student36.user1676@demo.edu,704-555-1076,Hackathon,Donation,2024-03-31,Pending,$130.37
+Student37,User17,student37.user1777@demo.edu,704-555-1077,Welcome Week,Donation,2024-06-19,Pending,$111.8
+Student38,User18,student38.user1878@demo.edu,704-555-1078,Hackathon,Ticket,2024-12-25,Failed,$28.08
+Student39,User19,student39.user1979@demo.edu,704-555-1079,Research Seminar,Ticket,2024-04-23,Paid,$129.5
+Student0,User20,student0.user2080@demo.edu,704-555-1080,Research Seminar,Ticket,2024-04-26,Failed,$49.25
+Student1,User21,student1.user2181@demo.edu,704-555-1081,Welcome Week,Ticket,2024-05-22,Pending,$62.78
+Student2,User22,student2.user2282@demo.edu,704-555-1082,Career Fair,Registration,2024-07-23,Failed,$98.01
+Student3,User23,student3.user2383@demo.edu,704-555-1083,Club Fundraiser,Donation,2024-02-29,Failed,$141.19
+Student4,User24,student4.user2484@demo.edu,704-555-1084,Hackathon,Donation,2024-11-01,Failed,$10.55
+Student5,User25,student5.user2585@demo.edu,704-555-1085,Career Fair,Ticket,2024-09-18,Failed,$68.28
+Student6,User26,student6.user2686@demo.edu,704-555-1086,Research Seminar,Donation,2024-12-28,Pending,$41.93
+Student7,User27,student7.user2787@demo.edu,704-555-1087,Welcome Week,Registration,2024-02-05,Pending,$57.81
+Student8,User28,student8.user2888@demo.edu,704-555-1088,Career Fair,Registration,2024-03-04,Failed,$101.19
+Student9,User29,student9.user2989@demo.edu,704-555-1089,Career Fair,Donation,2024-06-16,Failed,$101.7
+Student10,User30,student10.user3090@demo.edu,704-555-1090,Career Fair,Donation,2024-12-06,Pending,$32.82
+Student11,User31,student11.user3191@demo.edu,704-555-1091,Hackathon,Donation,2024-01-01,Failed,$63.88
+Student12,User32,student12.user3292@demo.edu,704-555-1092,Career Fair,Registration,2024-10-23,Pending,$67.33
+Student13,User33,student13.user3393@demo.edu,704-555-1093,Career Fair,Ticket,2024-12-11,Refunded,$69.06
+Student14,User34,student14.user3494@demo.edu,704-555-1094,Club Fundraiser,Registration,2024-03-27,Refunded,$120.09
+Student15,User35,student15.user3595@demo.edu,704-555-1095,Welcome Week,Registration,2024-11-20,Failed,$79.74
+Student16,User36,student16.user3696@demo.edu,704-555-1096,Career Fair,Registration,2024-04-30,Paid,$123.67
+Student17,User37,student17.user3797@demo.edu,704-555-1097,Career Fair,Ticket,2024-03-16,Pending,$121.95
+Student18,User38,student18.user3898@demo.edu,704-555-1098,Welcome Week,Ticket,2024-11-08,Pending,$147.67
+Student19,User39,student19.user3999@demo.edu,704-555-1099,Research Seminar,Ticket,2024-10-21,Refunded,$133.49
+Student20,User40,student20.user40100@demo.edu,704-555-1100,Research Seminar,Registration,2024-03-16,Refunded,$62.95
+Student21,User41,student21.user41101@demo.edu,704-555-1101,Welcome Week,Ticket,2024-04-22,Paid,$117.87
+Student22,User42,student22.user42102@demo.edu,704-555-1102,Club Fundraiser,Ticket,2024-05-07,Refunded,$12.28
+Student23,User43,student23.user43103@demo.edu,704-555-1103,Research Seminar,Registration,2024-12-07,Pending,$121.21
+Student24,User44,student24.user44104@demo.edu,704-555-1104,Club Fundraiser,Registration,2024-08-14,Failed,$142.76
+Student25,User45,student25.user45105@demo.edu,704-555-1105,Club Fundraiser,Donation,2024-10-07,Refunded,$125.43
+Student26,User46,student26.user46106@demo.edu,704-555-1106,Hackathon,Registration,2024-05-06,Refunded,$70.26
+Student27,User47,student27.user47107@demo.edu,704-555-1107,Career Fair,Donation,2024-05-20,Refunded,$95.88
+Student28,User48,student28.user48108@demo.edu,704-555-1108,Welcome Week,Donation,2024-06-20,Failed,$39.0
+Student29,User49,student29.user49109@demo.edu,704-555-1109,Club Fundraiser,Donation,2024-04-28,Paid,$25.06
+Student30,User50,student30.user50110@demo.edu,704-555-1110,Hackathon,Donation,2024-07-27,Pending,$14.31
+Student31,User51,student31.user51111@demo.edu,704-555-1111,Club Fundraiser,Donation,2024-04-15,Refunded,$65.29
+Student32,User52,student32.user52112@demo.edu,704-555-1112,Research Seminar,Donation,2024-10-21,Paid,$129.23
+Student33,User53,student33.user53113@demo.edu,704-555-1113,Research Seminar,Donation,2024-06-01,Paid,$141.7
+Student34,User54,student34.user54114@demo.edu,704-555-1114,Research Seminar,Donation,2024-05-19,Pending,$75.79
+Student35,User55,student35.user55115@demo.edu,704-555-1115,Research Seminar,Registration,2024-12-08,Paid,$61.38
+Student36,User56,student36.user56116@demo.edu,704-555-1116,Research Seminar,Registration,2024-03-06,Pending,$126.87
+Student37,User57,student37.user57117@demo.edu,704-555-1117,Club Fundraiser,Registration,2024-10-30,Paid,$136.5
+Student38,User58,student38.user58118@demo.edu,704-555-1118,Welcome Week,Donation,2024-03-10,Paid,$98.2
+Student39,User59,student39.user59119@demo.edu,704-555-1119,Hackathon,Ticket,2024-06-16,Paid,$42.72
+Student0,User0,student0.user0120@demo.edu,704-555-1120,Research Seminar,Donation,2024-07-13,Failed,$53.94
+Student1,User1,student1.user1121@demo.edu,704-555-1121,Research Seminar,Ticket,2024-08-28,Failed,$126.06
+Student2,User2,student2.user2122@demo.edu,704-555-1122,Club Fundraiser,Ticket,2024-06-28,Paid,$149.99
+Student3,User3,student3.user3123@demo.edu,704-555-1123,Welcome Week,Ticket,2024-05-06,Paid,$114.36
+Student4,User4,student4.user4124@demo.edu,704-555-1124,Welcome Week,Registration,2024-08-30,Pending,$39.59
+Student5,User5,student5.user5125@demo.edu,704-555-1125,Welcome Week,Donation,2024-05-11,Pending,$72.43
+Student6,User6,student6.user6126@demo.edu,704-555-1126,Hackathon,Donation,2024-03-24,Paid,$117.78
+Student7,User7,student7.user7127@demo.edu,704-555-1127,Welcome Week,Registration,2024-10-21,Paid,$139.69
+Student8,User8,student8.user8128@demo.edu,704-555-1128,Research Seminar,Ticket,2024-04-11,Refunded,$141.51
+Student9,User9,student9.user9129@demo.edu,704-555-1129,Club Fundraiser,Registration,2024-06-03,Pending,$19.78
+Student10,User10,student10.user10130@demo.edu,704-555-1130,Club Fundraiser,Ticket,2024-10-16,Paid,$120.45
+Student11,User11,student11.user11131@demo.edu,704-555-1131,Career Fair,Registration,2024-02-05,Refunded,$100.92
+Student12,User12,student12.user12132@demo.edu,704-555-1132,Career Fair,Ticket,2024-09-07,Paid,$128.19
+Student13,User13,student13.user13133@demo.edu,704-555-1133,Research Seminar,Registration,2024-08-23,Failed,$97.16
+Student14,User14,student14.user14134@demo.edu,704-555-1134,Hackathon,Registration,2024-09-24,Refunded,$30.54
+Student15,User15,student15.user15135@demo.edu,704-555-1135,Career Fair,Donation,2024-10-30,Refunded,$72.41
+Student16,User16,student16.user16136@demo.edu,704-555-1136,Career Fair,Donation,2024-02-14,Pending,$125.46
+Student17,User17,student17.user17137@demo.edu,704-555-1137,Research Seminar,Registration,2024-10-18,Pending,$113.82
+Student18,User18,student18.user18138@demo.edu,704-555-1138,Research Seminar,Ticket,2024-06-15,Failed,$9.16
+Student19,User19,student19.user19139@demo.edu,704-555-1139,Research Seminar,Donation,2024-05-12,Pending,$56.45
+Student20,User20,student20.user20140@demo.edu,704-555-1140,Career Fair,Ticket,2024-09-21,Failed,$85.59
+Student21,User21,student21.user21141@demo.edu,704-555-1141,Welcome Week,Registration,2024-09-07,Pending,$109.41
+Student22,User22,student22.user22142@demo.edu,704-555-1142,Hackathon,Donation,2024-09-08,Refunded,$98.66
+Student23,User23,student23.user23143@demo.edu,704-555-1143,Welcome Week,Registration,2024-07-26,Paid,$47.66
+Student24,User24,student24.user24144@demo.edu,704-555-1144,Hackathon,Donation,2024-07-07,Failed,$101.27
+Student25,User25,student25.user25145@demo.edu,704-555-1145,Club Fundraiser,Donation,2024-10-08,Failed,$66.7
+Student26,User26,student26.user26146@demo.edu,704-555-1146,Career Fair,Ticket,2024-05-08,Refunded,$44.28
+Student27,User27,student27.user27147@demo.edu,704-555-1147,Welcome Week,Registration,2024-10-01,Pending,$50.75
+Student28,User28,student28.user28148@demo.edu,704-555-1148,Hackathon,Donation,2024-09-04,Pending,$36.38
+Student29,User29,student29.user29149@demo.edu,704-555-1149,Club Fundraiser,Donation,2024-04-09,Failed,$147.17
+Student30,User30,student30.user30150@demo.edu,704-555-1150,Hackathon,Registration,2024-01-08,Failed,$31.02
+Student31,User31,student31.user31151@demo.edu,704-555-1151,Club Fundraiser,Registration,2024-01-28,Pending,$44.78
+Student32,User32,student32.user32152@demo.edu,704-555-1152,Career Fair,Ticket,2024-09-08,Pending,$97.49
+Student33,User33,student33.user33153@demo.edu,704-555-1153,Welcome Week,Donation,2024-08-13,Failed,$73.06
+Student34,User34,student34.user34154@demo.edu,704-555-1154,Hackathon,Ticket,2024-09-01,Paid,$41.61
+Student35,User35,student35.user35155@demo.edu,704-555-1155,Welcome Week,Registration,2024-10-22,Refunded,$76.3
+Student36,User36,student36.user36156@demo.edu,704-555-1156,Welcome Week,Donation,2024-10-15,Pending,$26.63
+Student37,User37,student37.user37157@demo.edu,704-555-1157,Welcome Week,Registration,2024-08-01,Pending,$22.18
+Student38,User38,student38.user38158@demo.edu,704-555-1158,Club Fundraiser,Donation,2024-07-13,Pending,$117.48
+Student39,User39,student39.user39159@demo.edu,704-555-1159,Research Seminar,Donation,2024-08-07,Failed,$129.72
+Student0,User40,student0.user40160@demo.edu,704-555-1160,Club Fundraiser,Ticket,2024-02-20,Paid,$93.4
+Student1,User41,student1.user41161@demo.edu,704-555-1161,Hackathon,Ticket,2024-03-21,Failed,$100.76
+Student2,User42,student2.user42162@demo.edu,704-555-1162,Hackathon,Donation,2024-07-28,Paid,$27.7
+Student3,User43,student3.user43163@demo.edu,704-555-1163,Club Fundraiser,Donation,2024-04-28,Refunded,$47.23
+Student4,User44,student4.user44164@demo.edu,704-555-1164,Career Fair,Donation,2024-04-29,Refunded,$15.32
+Student5,User45,student5.user45165@demo.edu,704-555-1165,Club Fundraiser,Ticket,2024-10-05,Pending,$66.65
+Student6,User46,student6.user46166@demo.edu,704-555-1166,Hackathon,Ticket,2024-02-06,Failed,$124.86
+Student7,User47,student7.user47167@demo.edu,704-555-1167,Hackathon,Donation,2024-10-18,Failed,$91.28
+Student8,User48,student8.user48168@demo.edu,704-555-1168,Research Seminar,Registration,2024-06-04,Paid,$72.96
+Student9,User49,student9.user49169@demo.edu,704-555-1169,Research Seminar,Donation,2024-09-09,Failed,$77.57
+Student10,User50,student10.user50170@demo.edu,704-555-1170,Welcome Week,Registration,2024-06-14,Paid,$133.97
+Student11,User51,student11.user51171@demo.edu,704-555-1171,Career Fair,Registration,2024-12-11,Paid,$18.24
+Student12,User52,student12.user52172@demo.edu,704-555-1172,Club Fundraiser,Donation,2024-12-10,Paid,$149.94
+Student13,User53,student13.user53173@demo.edu,704-555-1173,Club Fundraiser,Donation,2024-03-30,Paid,$115.65
+Student14,User54,student14.user54174@demo.edu,704-555-1174,Club Fundraiser,Registration,2024-04-02,Refunded,$137.83
+Student15,User55,student15.user55175@demo.edu,704-555-1175,Research Seminar,Donation,2024-08-28,Refunded,$145.51
+Student16,User56,student16.user56176@demo.edu,704-555-1176,Research Seminar,Ticket,2024-02-23,Failed,$51.55
+Student17,User57,student17.user57177@demo.edu,704-555-1177,Career Fair,Registration,2024-05-27,Refunded,$105.58
+Student18,User58,student18.user58178@demo.edu,704-555-1178,Research Seminar,Donation,2024-06-10,Paid,$70.95
+Student19,User59,student19.user59179@demo.edu,704-555-1179,Career Fair,Registration,2024-07-25,Paid,$145.68
+Student20,User0,student20.user0180@demo.edu,704-555-1180,Welcome Week,Registration,2024-04-06,Refunded,$64.92
+Student21,User1,student21.user1181@demo.edu,704-555-1181,Career Fair,Ticket,2024-01-27,Refunded,$95.68
+Student22,User2,student22.user2182@demo.edu,704-555-1182,Career Fair,Registration,2024-08-12,Pending,$139.51
+Student23,User3,student23.user3183@demo.edu,704-555-1183,Research Seminar,Registration,2024-11-18,Paid,$9.19
+Student24,User4,student24.user4184@demo.edu,704-555-1184,Hackathon,Registration,2024-01-08,Pending,$50.06
+Student25,User5,student25.user5185@demo.edu,704-555-1185,Research Seminar,Donation,2024-02-28,Paid,$37.58
+Student26,User6,student26.user6186@demo.edu,704-555-1186,Welcome Week,Registration,2024-05-29,Pending,$77.26
+Student27,User7,student27.user7187@demo.edu,704-555-1187,Career Fair,Ticket,2024-08-29,Refunded,$126.03
+Student28,User8,student28.user8188@demo.edu,704-555-1188,Research Seminar,Registration,2024-11-02,Pending,$60.62
+Student29,User9,student29.user9189@demo.edu,704-555-1189,Hackathon,Donation,2024-07-31,Paid,$45.06
+Student30,User10,student30.user10190@demo.edu,704-555-1190,Club Fundraiser,Registration,2024-05-24,Failed,$123.98
+Student31,User11,student31.user11191@demo.edu,704-555-1191,Career Fair,Registration,2024-08-16,Refunded,$130.46
+Student32,User12,student32.user12192@demo.edu,704-555-1192,Research Seminar,Donation,2024-10-05,Failed,$53.2
+Student33,User13,student33.user13193@demo.edu,704-555-1193,Research Seminar,Ticket,2024-12-23,Failed,$131.09
+Student34,User14,student34.user14194@demo.edu,704-555-1194,Club Fundraiser,Ticket,2024-07-29,Refunded,$38.87
+Student35,User15,student35.user15195@demo.edu,704-555-1195,Career Fair,Donation,2024-07-14,Refunded,$107.26
+Student36,User16,student36.user16196@demo.edu,704-555-1196,Hackathon,Registration,2024-03-05,Refunded,$144.9
+Student37,User17,student37.user17197@demo.edu,704-555-1197,Club Fundraiser,Ticket,2024-08-13,Failed,$131.11
+Student38,User18,student38.user18198@demo.edu,704-555-1198,Club Fundraiser,Donation,2024-03-14,Refunded,$7.23
+Student39,User19,student39.user19199@demo.edu,704-555-1199,Hackathon,Donation,2024-05-15,Paid,$73.08
+Student0,User20,student0.user20200@demo.edu,704-555-1200,Club Fundraiser,Registration,2024-06-17,Refunded,$99.23
+Student1,User21,student1.user21201@demo.edu,704-555-1201,Club Fundraiser,Registration,2024-11-16,Refunded,$143.35
+Student2,User22,student2.user22202@demo.edu,704-555-1202,Research Seminar,Registration,2024-04-30,Paid,$94.53
+Student3,User23,student3.user23203@demo.edu,704-555-1203,Career Fair,Ticket,2024-08-10,Pending,$113.28
+Student4,User24,student4.user24204@demo.edu,704-555-1204,Welcome Week,Ticket,2024-06-02,Refunded,$29.12
+Student5,User25,student5.user25205@demo.edu,704-555-1205,Welcome Week,Donation,2024-05-30,Failed,$120.44
+Student6,User26,student6.user26206@demo.edu,704-555-1206,Career Fair,Donation,2024-09-28,Refunded,$26.11
+Student7,User27,student7.user27207@demo.edu,704-555-1207,Club Fundraiser,Registration,2024-02-10,Pending,$29.65
+Student8,User28,student8.user28208@demo.edu,704-555-1208,Research Seminar,Ticket,2024-10-25,Pending,$77.16
+Student9,User29,student9.user29209@demo.edu,704-555-1209,Hackathon,Donation,2024-08-23,Refunded,$97.5
+Student10,User30,student10.user30210@demo.edu,704-555-1210,Welcome Week,Registration,2024-12-12,Refunded,$135.68
+Student11,User31,student11.user31211@demo.edu,704-555-1211,Hackathon,Registration,2024-06-25,Paid,$69.05
+Student12,User32,student12.user32212@demo.edu,704-555-1212,Career Fair,Donation,2024-08-21,Refunded,$105.1
+Student13,User33,student13.user33213@demo.edu,704-555-1213,Hackathon,Ticket,2024-02-24,Refunded,$128.73
+Student14,User34,student14.user34214@demo.edu,704-555-1214,Research Seminar,Donation,2024-12-24,Failed,$88.35
+Student15,User35,student15.user35215@demo.edu,704-555-1215,Welcome Week,Registration,2024-10-16,Refunded,$44.8
+Student16,User36,student16.user36216@demo.edu,704-555-1216,Welcome Week,Ticket,2024-05-26,Refunded,$125.76
+Student17,User37,student17.user37217@demo.edu,704-555-1217,Club Fundraiser,Registration,2024-04-07,Failed,$36.76
+Student18,User38,student18.user38218@demo.edu,704-555-1218,Career Fair,Registration,2024-11-17,Pending,$96.1
+Student19,User39,student19.user39219@demo.edu,704-555-1219,Welcome Week,Registration,2024-01-18,Failed,$119.35
+Student20,User40,student20.user40220@demo.edu,704-555-1220,Career Fair,Donation,2024-05-31,Pending,$18.07
+Student21,User41,student21.user41221@demo.edu,704-555-1221,Research Seminar,Donation,2024-10-03,Pending,$34.12
+Student22,User42,student22.user42222@demo.edu,704-555-1222,Club Fundraiser,Donation,2024-05-11,Failed,$125.42
+Student23,User43,student23.user43223@demo.edu,704-555-1223,Career Fair,Ticket,2024-08-27,Failed,$121.61
+Student24,User44,student24.user44224@demo.edu,704-555-1224,Hackathon,Donation,2024-12-11,Pending,$129.72
+Student25,User45,student25.user45225@demo.edu,704-555-1225,Club Fundraiser,Ticket,2024-07-21,Failed,$18.09
+Student26,User46,student26.user46226@demo.edu,704-555-1226,Career Fair,Registration,2024-12-10,Paid,$70.94
+Student27,User47,student27.user47227@demo.edu,704-555-1227,Career Fair,Ticket,2024-07-09,Refunded,$124.25
+Student28,User48,student28.user48228@demo.edu,704-555-1228,Hackathon,Donation,2024-10-14,Refunded,$8.63
+Student29,User49,student29.user49229@demo.edu,704-555-1229,Club Fundraiser,Donation,2024-11-21,Pending,$98.91
+Student30,User50,student30.user50230@demo.edu,704-555-1230,Career Fair,Ticket,2024-01-24,Refunded,$21.92
+Student31,User51,student31.user51231@demo.edu,704-555-1231,Career Fair,Registration,2024-04-30,Refunded,$21.84
+Student32,User52,student32.user52232@demo.edu,704-555-1232,Hackathon,Registration,2024-12-09,Refunded,$70.78
+Student33,User53,student33.user53233@demo.edu,704-555-1233,Club Fundraiser,Donation,2024-03-20,Refunded,$90.16
+Student34,User54,student34.user54234@demo.edu,704-555-1234,Welcome Week,Ticket,2024-05-23,Refunded,$94.27
+Student35,User55,student35.user55235@demo.edu,704-555-1235,Career Fair,Donation,2024-04-30,Pending,$69.29
+Student36,User56,student36.user56236@demo.edu,704-555-1236,Welcome Week,Donation,2024-11-26,Failed,$83.95
+Student37,User57,student37.user57237@demo.edu,704-555-1237,Welcome Week,Donation,2024-03-03,Refunded,$45.0
+Student38,User58,student38.user58238@demo.edu,704-555-1238,Welcome Week,Ticket,2024-11-01,Pending,$98.05
+Student39,User59,student39.user59239@demo.edu,704-555-1239,Welcome Week,Registration,2024-03-05,Failed,$40.32
+Student0,User0,student0.user0240@demo.edu,704-555-1240,Hackathon,Ticket,2024-10-10,Paid,$125.32
+Student1,User1,student1.user1241@demo.edu,704-555-1241,Club Fundraiser,Donation,2024-04-29,Pending,$122.89
+Student2,User2,student2.user2242@demo.edu,704-555-1242,Hackathon,Ticket,2024-03-15,Paid,$45.2
+Student3,User3,student3.user3243@demo.edu,704-555-1243,Club Fundraiser,Registration,2024-02-26,Failed,$120.78
+Student4,User4,student4.user4244@demo.edu,704-555-1244,Welcome Week,Registration,2024-05-01,Pending,$7.15
+Student5,User5,student5.user5245@demo.edu,704-555-1245,Career Fair,Ticket,2024-01-27,Paid,$30.27
+Student6,User6,student6.user6246@demo.edu,704-555-1246,Research Seminar,Donation,2024-08-31,Paid,$113.12
+Student7,User7,student7.user7247@demo.edu,704-555-1247,Career Fair,Registration,2024-04-23,Paid,$70.54
+Student8,User8,student8.user8248@demo.edu,704-555-1248,Welcome Week,Ticket,2024-01-16,Failed,$71.42
+Student9,User9,student9.user9249@demo.edu,704-555-1249,Research Seminar,Donation,2024-02-25,Refunded,$66.81

@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>User Search</title>
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+
+  <body>
+    <div class="page">
+      <header class="topbar">
+        <div>
+          <div class="brand">User Search</div>
+        </div>
+      </header>
+
+      <main class="container">
+        <section class="card hero">
+          <div class="hero-left">
+            <div class="hero-title">Search records fast</div>
+            <div class="hero-text">
+              Type a name, email, or phone. Click a result to view full fields.
+            </div>
+          </div>
+
+          <div class="hero-right">
+            <div class="searchbar">
+              <input id="q" placeholder="Search phone, email, or name..." autofocus />
+              <button id="btn" class="btn" type="button">Search</button>
+            </div>
+            <div id="hint" class="hint">Tip: try a last name, domain, or last 7 digits.</div>
+          </div>
+        </section>
+
+        <section class="grid">
+          <div class="panel">
+            <div class="panel-title">Insights</div>
+            <div id="insights" class="insights muted">Loading insights…</div>
+          </div>
+
+          <div class="panel">
+            <div class="panel-title">Results</div>
+            <div id="results" class="results muted">Search to see matches.</div>
+          </div>
+
+          <div class="panel">
+            <div class="panel-title">Details</div>
+            <div id="details" class="details muted">Click a result to see full fields.</div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="footer">
+        <span>Built by Bryan • Portfolio Demo</span>
+      </footer>
+    </div>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>
